@@ -1,5 +1,23 @@
 ## Hi there 👋
 
+I'm Tan, a Frontend Developer who never stops learning, with a long-term goal of becoming a Fullstack Developer.
+
+My journey into web development did not start from my original major.
+Everything I know today comes from self-learning, curiosity, and continuous practice.
+
+My main stack is HTML5, CSS3, JavaScript (currently focusing on strengthening frontend fundamentals before moving deeper into backend technologies).
+
+I’ve built several websites during my learning journey. One of my favorite projects is JPRestaurant.
+
+**Fun facts:**
+
+I have a cat named Knight 🐈
+
+I’m addicted to coffee ☕
+
+Passionate about sports 🏃‍♂️
+
+Always open to relocation for work opportunities
 <!--
 **TanTran2604/TanTran2604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
