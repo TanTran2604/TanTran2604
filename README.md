@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Tan, a Frontend Developer who never stops learning, with a long-term goal of becoming a Fullstack Developer.
+I'm Tan, a "newbie" Fullstack Developer who never stops learning, with a long-term goal of becoming a Project Manager.
 
 My journey into web development did not start from my original major.
 Everything I know today comes from self-learning, curiosity, and continuous practice.
